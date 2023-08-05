@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">猜數字遊戲</string>
+    <string name="label">請輸入一個數字(0~50)</string>
+    <string name="btn">CHECK</string>
+</resources>
